@@ -1,0 +1,1 @@
+This repository contains my own solutions for the [codeforces.com](http://codeforces.com/) problemset section exercises.
